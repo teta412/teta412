@@ -65,11 +65,10 @@ My name is Teta and I'm a student at Posts and Telecommunications Institute of T
 <p>
     	<a href="#"><img alt="IDE-Visualstudio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   	  <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white"></a>
-    	<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=microsoftsqlserver&logoColor=white"></a>
     	<a href="#"><img alt="PDP-Anaconda" src="https://img.shields.io/badge/-Anaconda-141E24?logo=anaconda&logoColor=white"></a>
     	<a href="#"><img alt="VIDE-JupyterNotebook" src="https://img.shields.io/badge/Jupyter%20NoteBook-F37626.svg?logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?logo=Power%20BI&logoColor=white"></a>
-	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+	
   
 </p>
 
